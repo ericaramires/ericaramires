@@ -1,29 +1,49 @@
-I have knowledge of:
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhwM3JsM29maXk2b3Z3YTNvOHY4c3JnZmlvOHY2ejB1bWl3ZXlmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif"  />
+</div>
 
+###
 
-  <img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png"/> </a> <img height="30" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png"/></a><img height="35" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png"/></a><img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png"/></a><img height="35" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"/></a><img height="30" src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png"/></a>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
 
+###
 
+<h1 align="center">Hello World 👋</h1>
 
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-<a href="https://www.linkedin.com/in/ramireserica/">
-  <img height="30" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png"/>
-</a>
+###
 
-## Hi there 👋
+<p align="left">I'm Erica Ramires from Portugal<br><br>- 👩🏻‍💻 Cybersecurity Specialist</p>
 
-<!--
-**ericaramires/ericaramires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">🛠 Language and tools</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ericaramires/ericaramires/output/snake.svg" alt="Snake animation" />
+
+###
