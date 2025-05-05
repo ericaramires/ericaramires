@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Erica Ramires from Portugal<br><br>- 👩🏻‍💻 Cybersecurity Specialist</p>
+<p align="left">I'm Erica Ramires from Portugal<br><br>- 👩🏻‍💻 Cloud Engineer | DevOps Engineer </p>
 
 ###
 
